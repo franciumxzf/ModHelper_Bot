@@ -1,5 +1,9 @@
 # ModHelper_Bot
 
+**Description**
+
+This is a bot aiming to help NUS students on anything and everything related to our modules. Here, you can find information, tele groups and mates based on module code. You can also match with study buddies based on your major.
+
 **Motivation**
 
 We are students from nus SoC and FoS.
@@ -10,17 +14,20 @@ Currently many choose to post in the reddit forum r/NUS to look for module chats
 
 Locating fellow students in the same module and finding project group mates or study buddies will always be a need for NUS students due to the nature of our courses. So why isn’t there an autobot to help students with this task so we don’t have to waste time roaming through Reddit?  
 
-**User Stories**
+**Features**
 
-- As a student who wants to find classmates of a module, I want to be able to get a telegram group link of the respective module.
-- As a student who wants to find groupmates of a module, I want to be able to match with others with the same need without having to manually search by myself.
-- As a student who wants to find a study buddy, I want to be able to match with others based on faculty.
+*Search Module Info*
+Send us a module code and we will provide you with the module’s information from its credit, preclusion and description to workload distribution. All information are generated from NUSMods for max accuracy. Use this feature to gauge your expectations for the project component! 
 
-**Features -- A Reddit Bot and a Telegram Bot**
+*Find Module Group*
+We will send you the link to TeleNUS, where you can find NUS-related Telegram groups. If you know groups that are not yet updated on TeleNUS, please also help them out! 
 
-- Reddit bot - automated replies to posts looking for modules' telegroup links on r/NUS.
-- Telegram bot - random matching for students based on requirements for project mates (based on module) and study buddies (based on faculty).
+*Find Module Mate & Find Study Buddy*
+Send us the module code or select the faculty that you wish to find a module mate or study buddy for. We will immediately start searching for another user with the same selection for you. This process may need some time as other users might still be on the way!/
+We will send a message to notify you once a match is found. You can then start a chat with your match inside our bot. The chat is for you to exchange your expectations about the module’s project with each other, and is anonymous to protect you. Once both of you agree to match with each other, the bot will exchange the usernames for you and chat in the bot will be ended. Grab the username and start learning together!/
+Remember, you can always stop searching or exiting from the chat. 
+
+
+We hope you have fun here!!
 
 Test our project here: http://t.me/ModHelper_Bot
-
-If you have any questions, feel free to contact @francium_xzf on telegram:)

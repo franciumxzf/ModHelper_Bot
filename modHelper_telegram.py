@@ -1,11 +1,11 @@
 from certifi import contents
 import telebot
 
-from Messages_v2 import *
-from MenuList import *
-from Option import *
-from pairEngine import *
-from ModuleInfo import *
+from Messages import *
+from module_func.MenuList import *
+from module_func.Option import *
+from message_func.pairEngine import *
+from module_func.ModuleInfo import *
 
 TOKEN = "5458457619:AAFzvBHIMTRzze_G44Ktx6lvxt77vdYAozw"
 bot = telebot.TeleBot(TOKEN)
