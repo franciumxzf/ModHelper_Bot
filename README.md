@@ -8,11 +8,18 @@ This is a bot aiming to help NUS students on anything and everything related to 
 
 We are students from nus SoC and FoS.
 
-In every semester, students in NUS take numerous modules with project requirements which require finding a telegram group chat and locating groupmates and study buddies. This task gets tedious when you are introverted or taking a module alone. 
+In every semester, students in NUS take numerous modules with project requirements which require finding a telegram group chat and locating groupmates and study buddies. This task gets tedious when you are introverted or taking a module alone.
 
-Currently many choose to post in the reddit forum r/NUS to look for module chats, groupmates or study buddies. Yet as too many similar posts clout the forum, it becomes troublesome for students to find the exact match of their need for their respective modules, having to scroll through pages of posts and direct messaging many users.
+Currently many choose to post in online forums to look for module chats, groupmates or study buddies. Yet as too many similar posts clout the forum, it becomes troublesome for students to find the exact match of their need for their respective modules, having to scroll through pages of posts. Direct messaging many other users is also a challenging task for many introverted students, not to mention that the outcomes of DMs are not so satisfactory most of the time.
 
-Locating fellow students in the same module and finding project group mates or study buddies will always be a need for NUS students due to the nature of our courses. So why isn’t there an autobot to help students with this task so we don’t have to waste time roaming through Reddit?  
+Locating fellow students in the same module and finding project group mates or study buddies will always be a need for NUS students due to the nature of our courses. So why isn't there an autobot to facilitate these matches so we don’t have to waste our time looking for project mates?
+
+**User Stories**
+
+- As a student who just started taking a module, I want to gain quick access to this module's general information, especially its workload distribution.
+- As a student who wants to find classmates of a module, I want to be able to get a telegram group link of the respective module.
+- As a student who wants to find groupmates of a module, I want to be able to match with others with the same need without having to manually search by myself.
+- As a student who wants to find a study buddy, I want to be able to match with others based on faculty.
 
 **Features**
 
