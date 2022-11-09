@@ -1,5 +1,7 @@
 # ModHelper_Bot (Orbital 2022)
 
+![5404](https://user-images.githubusercontent.com/92449199/200900495-e7a6f6e3-1290-4502-bb2a-87f52985ef33.png)
+
 **Description**
 
 This is a bot aiming to help NUS students on anything and everything related to our modules. Here, you can find information, tele groups and mates based on module code. You can also match with study buddies based on your major.
