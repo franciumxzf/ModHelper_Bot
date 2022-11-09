@@ -7,7 +7,7 @@ from module_func.Option import *
 from message_func.pairEngine import *
 from module_func.ModuleInfo import *
 
-TOKEN = "5458457619:AAFzvBHIMTRzze_G44Ktx6lvxt77vdYAozw"
+TOKEN = "INSERT TOKEN HERE"
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands = ["start"])
