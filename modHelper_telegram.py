@@ -1,8 +1,8 @@
 from certifi import contents
 import telebot
 
-from Messages import *
-from module_func.MenuList import *
+from general.Messages import *
+from general.MenuList import *
 from module_func.Option import *
 from message_func.pairEngine import *
 from module_func.ModuleInfo import *
